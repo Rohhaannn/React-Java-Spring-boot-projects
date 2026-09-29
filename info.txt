@@ -1,0 +1,2 @@
+this repo contains basic projects to learn & understand java spring boot as backend.
+started on 29 Sept 2026
